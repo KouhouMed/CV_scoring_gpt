@@ -6,9 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="7722ce47-838d-4a5f-ab6e-3f32e48516ab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cvs/cv-00006.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cvs/cv-00007.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cvs/cv-00008.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cvs/cv-00009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cvs/cv-00010.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/job_descriptions/job-00002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/job_descriptions/job-00008.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/scoring_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/scoring_results.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/chatgpt_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/chatgpt_model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725359403138</updated>
       <workItem from="1725359406967" duration="4086000" />
-      <workItem from="1725364419688" duration="4763000" />
+      <workItem from="1725364419688" duration="8016000" />
     </task>
     <servers />
   </component>

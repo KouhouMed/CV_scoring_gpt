@@ -3,7 +3,6 @@ import sys
 import csv
 from src.models.chatgpt_model import ChatGPTScorer
 from src.config.scorer_config import ScorerConfig
-from src.utils.skill_extractor import extract_skills_certifications_projects
 
 # Add the project root directory to the Python path
 project_root = os.path.dirname(os.path.abspath(__file__))
@@ -30,7 +29,6 @@ def save_results(results, output_file):
             writer.writerow([
                 result['cv'],
                 result['job_description'],
-                result['model'],
                 result['score'],
                 ', '.join([f"{skill['compétence']} ({skill['score']:.2f})" for skill in result['top_skills']])
             ])
@@ -40,9 +38,7 @@ def main():
     config = ScorerConfig()
 
     # Load models
-    models = {
-        'ChatGPT': ChatGPTScorer()
-    }
+    model = ChatGPTScorer()
 
     # Load CV data
     cv_folder = 'data/cvs'
@@ -62,24 +58,22 @@ def main():
             print(f"\nProcessing CV: {cv_file}")
             print(f"Job Description: {job_desc_file}")
 
-            for model_name, model in models.items():
-                print(f"\nScoring with {model_name} model:")
-                score = model.score_cv(cv_text, job_description)
-                top_skills = model.extract_top_skills(cv_text, job_description)
+            print(f"\nScoring with ChatGPT model:")
+            score = model.score_cv(cv_text, job_description)
+            top_skills = model.extract_top_skills(cv_text, job_description)
 
-                print(f"Score: {score:.4f}")
-                print("Top Skills:")
-                for skill in top_skills:
-                    print(
-                        f"  - {skill['compétence']}: Score: {skill['score']:.4f}, Années: {skill.get('années', 'N/A')}")
+            print(f"Score: {score:.4f}")
+            print("Top Skills:")
+            for skill in top_skills:
+                print(
+                    f"  - {skill['compétence']}: Score: {skill['score']:.4f}, Années: {skill.get('années', 'N/A')}")
 
-                results.append({
-                    'cv': cv_file,
-                    'job_description': job_desc_file,
-                    'model': model_name,
-                    'score': score,
-                    'top_skills': top_skills
-                })
+            results.append({
+                'cv': cv_file,
+                'job_description': job_desc_file,
+                'score': score,
+                'top_skills': top_skills
+            })
 
     # Save results to CSV
     save_results(results, 'output/scoring_results.csv')
@@ -90,14 +84,9 @@ def main():
 
 
 def analyze_results(results):
-    model_averages = {model: [] for model in ['ChatGPT']}
-    for result in results:
-        model_averages[result['model']].append(result['score'])
-
     print("\nModel Performance Analysis:")
-    for model, scores in model_averages.items():
-        avg_score = sum(scores) / len(scores)
-        print(f"{model} - Average Score: {avg_score:.4f}")
+    avg_score = sum(result['score'] for result in results) / len(results)
+    print(f"ChatGPT - Average Score: {avg_score:.4f}")
 
 
 if __name__ == "__main__":
