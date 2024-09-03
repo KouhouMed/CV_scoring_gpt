@@ -1,0 +1,39 @@
+# Global scoring parameters
+global:
+  skill_weight: 0.2
+  experience_weight: 0.4
+  certification_weight: 0.2
+  project_weight: 0.2
+  max_experience_years: 20
+  top_skills_count: 3
+
+# Skill scoring parameters
+skill_scoring:
+  experience_multiplier_cap: 2.0
+  certification_boost: 1.2
+  project_relevance_boost_cap: 0.2
+  max_skill_experience: 10
+
+# Model-specific configurations
+models:
+  chatgpt:
+    model_name: 'gpt-3.5-turbo'
+    temperature: 0.2
+    max_tokens: 500
+    top_p: 1.0
+    frequency_penalty: 0.0
+    presence_penalty: 0.0
+
+# Custom scoring adjustments (future use)
+custom_scoring:
+  industry_boost:
+    tech: 1.1
+    finance: 1.05
+    healthcare: 1.08
+  role_specific_weights:
+    developer:
+      coding_skills: 0.5
+      soft_skills: 0.3
+    manager:
+      leadership_skills: 0.4
+      technical_skills: 0.3
