@@ -41,7 +41,6 @@ class ChatGPTScorer(BaseScorer):
         return None
 
     def score_cv(self, cv_text, job_description):
-        skills, certifications, projects = extract_skills_certifications_projects(cv_text)
 
         prompt = f"""
         Given the following CV and job description, provide a relevance score between 0 and 1 (in this format : 0.83), 
@@ -58,10 +57,6 @@ class ChatGPTScorer(BaseScorer):
 
         Job Description:
         {job_description}
-
-        Skills with experience: {skills}
-        Certifications: {certifications}
-        Projects: {projects}
 
         Provide your response in the following format:
         Score: [Your score between 0 and 1]
@@ -82,27 +77,22 @@ class ChatGPTScorer(BaseScorer):
             return self._fallback_scoring(cv_text, job_description)
 
     def extract_top_skills(self, cv_text, job_description):
-        skills, certifications, projects = extract_skills_certifications_projects(cv_text)
 
         prompt = f"""
         Given the following CV and job description, identify the top {self.config.get('global.top_skills_count', 3)} most relevant skills 
         mentioned in the CV that match the job requirements. For each skill, provide a relevance score 
         between 0 and 1, considering:
 
-        1. The skill's importance to the job description (Weight: {self.config.get('global.skill_weight', 0.4)})
-        2. The candidate's years of experience with the skill (Weight: {self.config.get('global.experience_weight', 0.3)})
-        3. Related certifications mentioned in the CV (Weight: {self.config.get('global.certification_weight', 0.2)})
-        4. Relevant projects that demonstrate the skill (Weight: {self.config.get('global.project_weight', 0.1)})
+        1. The skill's importance to the job description (Weight: {self.config.get('skill_scoring.skill_weight', 0.4)})
+        2. The candidate's years of experience with the skill (Weight: {self.config.get('skill_scoring.experience_weight', 0.3)})
+        3. Related certifications mentioned in the CV (Weight: {self.config.get('skill_scoring.certification_weight', 0.2)})
+        4. Relevant projects that demonstrate the skill (Weight: {self.config.get('skill_scoring.project_weight', 0.1)})
 
         CV:
         {cv_text}
 
         Job Description:
         {job_description}
-
-        Skills with experience: {skills}
-        Certifications: {certifications}
-        Projects: {projects}
 
         Provide the result in the following JSON format:
         [

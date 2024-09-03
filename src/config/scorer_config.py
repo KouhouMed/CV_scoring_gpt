@@ -23,9 +23,10 @@ class ScorerConfig:
                 'project_weight': 0.1
             },
             'skill_scoring': {
-                'experience_multiplier_cap': 2.0,
-                'certification_boost': 1.2,
-                'project_relevance_boost_cap': 1.2
+                'experience_weight': 0.4,
+                'skill_weight': 0.3,
+                'certification_weight': 0.2,
+                'project_weight': 0.1
             },
             'models': {
                 'chatgpt': {

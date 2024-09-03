@@ -4,15 +4,14 @@ global:
   experience_weight: 0.4
   certification_weight: 0.2
   project_weight: 0.2
-  max_experience_years: 20
   top_skills_count: 3
 
 # Skill scoring parameters
 skill_scoring:
-  experience_multiplier_cap: 2.0
-  certification_boost: 1.2
-  project_relevance_boost_cap: 0.2
-  max_skill_experience: 10
+  skill_weight: 0.2
+  experience_weight: 0.4
+  certification_weight: 0.2
+  project_weight: 0.2
 
 # Model-specific configurations
 models:
