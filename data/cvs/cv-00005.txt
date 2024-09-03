@@ -1,0 +1,53 @@
+Marie Dubois
+12 Rue de la Paix, 75002 Paris
+Téléphone : 06 12 34 56 78
+Email : marie.dubois@email.com
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Ingénieure Logiciel Senior | TechInno SA, Paris
+Septembre 2018 - Présent
+- Développement et maintenance d'applications web utilisant Python, Django et React
+- Mise en place d'une architecture microservices, améliorant la scalabilité de 40%
+- Encadrement d'une équipe de 5 développeurs juniors
+- Implémentation de pratiques DevOps, réduisant le temps de déploiement de 60%
+
+Développeuse Full Stack | DataViz SARL, Lyon
+Juillet 2015 - Août 2018
+- Création d'interfaces utilisateur réactives avec Vue.js et d'APIs RESTful avec Node.js
+- Optimisation des requêtes SQL, améliorant les performances des applications de 30%
+- Participation à la migration vers le cloud AWS, résultant en une réduction des coûts de 25%
+
+Stage en Développement Web | WebSolutions SAS, Marseille
+Février - Juin 2015
+- Développement de fonctionnalités front-end pour des sites e-commerce
+- Assistance dans la mise en place de tests automatisés avec Jest
+
+FORMATION
+
+Master en Informatique, Spécialisation en Génie Logiciel | Université de Paris
+2013 - 2015
+
+Licence en Informatique | Université de Lyon
+2010 - 2013
+
+COMPÉTENCES
+
+Langages de programmation : Python (5 ans), JavaScript (6 ans), Java (3 ans)
+Frameworks & Bibliothèques : Django, React, Vue.js, Node.js, Express
+DevOps : Docker, Kubernetes, Jenkins, GitLab CI
+Cloud : AWS, Google Cloud Platform
+Base de données : PostgreSQL, MongoDB, Redis
+Méthodologies : Agile Scrum, Kanban
+
+LANGUES
+
+Français : Langue maternelle
+Anglais : Courant (TOEIC 950)
+Espagnol : Intermédiaire
+
+CENTRES D'INTÉRÊT
+
+- Contributrice active à des projets open source en Python
+- Organisatrice de meetups tech locaux
+- Passionnée de photographie numérique

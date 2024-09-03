@@ -1,0 +1,49 @@
+Description du poste
+
+À propos de nous
+Chez JavaTech Solutions, nous sommes passionnés par le développement d'applications robustes et évolutives. Notre entreprise se spécialise dans la création de solutions logicielles sur mesure pour une variété de secteurs, en utilisant les dernières technologies Java et les meilleures pratiques de l'industrie. Nous croyons en l'innovation continue et en l'apprentissage, offrant un environnement idéal pour les développeurs en début de carrière qui souhaitent grandir et exceller dans leur domaine.
+
+À propos de la mission :
+Nous recherchons un développeur Java junior enthousiaste pour rejoindre notre équipe dynamique. Dans ce rôle, vous aurez l'opportunité de travailler sur divers projets passionnants, allant des applications web aux services back-end. Vous serez impliqué dans toutes les phases du cycle de développement, de la conception à la mise en production, tout en bénéficiant du mentorat de développeurs expérimentés. C'est une excellente opportunité pour commencer votre carrière dans un environnement stimulant et apprenant.
+
+Responsabilités :
+• Développement et maintenance d'applications Java, en mettant l'accent sur la qualité du code et les bonnes pratiques.
+• Participation à la conception et à l'implémentation de nouvelles fonctionnalités pour nos projets clients.
+• Collaboration avec l'équipe pour résoudre des problèmes techniques et optimiser les performances des applications.
+• Apprentissage et application des principes de développement Agile et des méthodologies DevOps.
+• Participation aux revues de code et aux sessions de pair programming pour améliorer la qualité du code et partager les connaissances.
+• Rédaction de tests unitaires et participation aux processus d'assurance qualité.
+• Contribution à la documentation technique et à la documentation utilisateur.
+
+Qualifications requises :
+• Diplôme en informatique, génie logiciel ou domaine connexe (Bac+3 minimum).
+• Connaissance solide des fondamentaux de Java et de la programmation orientée objet.
+• Familiarité avec les frameworks Java courants tels que Spring ou Hibernate.
+• Compréhension de base des technologies web (HTML, CSS, JavaScript).
+• Connaissance des bases de données relationnelles et du langage SQL.
+• Familiarité avec les outils de contrôle de version, en particulier Git.
+• Capacité à travailler en équipe et excellentes aptitudes en communication.
+• Volonté d'apprendre et de se tenir au courant des nouvelles technologies.
+• Expérience de stage ou projets personnels en développement Java (un plus).
+
+Autres informations :
+Type de contrat : CDI
+Lieu de travail : Paris avec possibilité de télétravail partiel
+
+Si vous êtes passionné par Java, que vous avez soif d'apprendre et que vous souhaitez débuter votre carrière dans une entreprise innovante, nous voulons vous entendre !
+
+Type d'emploi : CDI, Temps plein
+Statut : Non-cadre
+Rémunération : 28 000,00€ à 35 000,00€ par an
+
+Formation :
+• Bac +3 (Licence) ou équivalent (Requis)
+
+Expérience :
+• Développement Java : 6 mois - 1 an (stage ou projets inclus) (Requis)
+• Développement web : 6 mois (Optionnel)
+
+Langue :
+• Anglais : Niveau intermédiaire (Requis)
+
+Lieu du poste : Hybride (75001 Paris)

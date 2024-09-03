@@ -1,0 +1,59 @@
+Amélie Rousseau
+23 Boulevard Haussmann, 75009 Paris
+Téléphone : 06 87 65 43 21
+Email : amelie.rousseau@email.com
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Ingénieure en Cybersécurité | SecureNet Solutions, Paris
+Mars 2018 - Présent
+- Conception et mise en œuvre de solutions de sécurité pour des clients de grande envergure
+- Réalisation d'audits de sécurité et de tests d'intrusion, identifiant en moyenne 15 vulnérabilités critiques par audit
+- Développement d'outils d'analyse de malwares en Python, améliorant le temps de détection de 40%
+- Formation des employés aux meilleures pratiques de sécurité, réduisant les incidents de 30%
+
+Analyste en Sécurité | CyberGuard SARL, Lyon
+Juin 2015 - Février 2018
+- Surveillance et analyse des alertes de sécurité sur un SIEM
+- Mise en place de règles de détection, augmentant la précision des alertes de 25%
+- Participation à la gestion des incidents de sécurité et à la réponse aux crises
+
+Stage en Sécurité Informatique | InfoSec SA, Toulouse
+Janvier - Mai 2015
+- Assistance dans la réalisation de tests d'intrusion web
+- Contribution à la rédaction de rapports de sécurité pour les clients
+
+FORMATION
+
+Master en Sécurité des Systèmes d'Information | EPITA, Paris
+2013 - 2015
+
+Licence en Informatique | Université Claude Bernard Lyon 1
+2010 - 2013
+
+COMPÉTENCES
+
+Sécurité : Pentest, Analyse de vulnérabilités, Forensics, Cryptographie
+Langages : Python (6 ans), C++ (4 ans), Bash (5 ans)
+Outils : Metasploit, Nmap, Wireshark, Burp Suite, OWASP ZAP
+Systèmes : Linux (7 ans), Windows (5 ans)
+Réseaux : TCP/IP, Firewall, VPN, IDS/IPS
+Frameworks : NIST, ISO 27001, OWASP
+
+CERTIFICATIONS
+
+- Certified Information Systems Security Professional (CISSP)
+- Offensive Security Certified Professional (OSCP)
+- CompTIA Security+
+
+LANGUES
+
+Français : Langue maternelle
+Anglais : Courant (TOEIC 900)
+Russe : Niveau intermédiaire
+
+CENTRES D'INTÉRÊT
+
+- Participante active à des CTF (Capture The Flag) de cybersécurité
+- Bénévole pour la sensibilisation à la sécurité informatique dans les écoles
+- Passionnée d'échecs et de résolution de puzzles logiques

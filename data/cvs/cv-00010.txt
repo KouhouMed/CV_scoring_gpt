@@ -1,0 +1,78 @@
+Claire Moreau
+18 Avenue de la Liberté, 44000 Nantes
+Téléphone : 06 98 76 54 32
+Email : claire.moreau@email.com
+
+PROFIL
+Jeune professionnelle dynamique avec une formation en informatique et une expérience récente en gestion de projet IT. Passionnée par la transformation digitale et l'optimisation des processus, je cherche à appliquer mes compétences techniques et interpersonnelles pour mener à bien des projets IT innovants.
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Junior IT Project Manager | DigitalSphere Solutions, Nantes
+Janvier 2023 - Présent
+- Gestion de 3 projets de développement d'applications web d'une valeur totale de 200K€
+- Coordination d'une équipe de 6 développeurs et 2 designers
+- Mise en place d'une méthodologie Agile (Scrum) améliorant la productivité de l'équipe de 20%
+- Élaboration et suivi des plannings, budgets et rapports d'avancement
+- Interface entre l'équipe technique et les parties prenantes du projet
+
+Business Analyst | TechInno SA, Nantes
+Juillet 2021 - Décembre 2022
+- Analyse des besoins utilisateurs et rédaction de spécifications fonctionnelles
+- Participation à la conception de solutions IT pour des clients dans le secteur bancaire
+- Collaboration avec les équipes de développement pour assurer l'alignement avec les besoins métier
+- Contribution à l'amélioration des processus internes, résultant en une réduction de 15% du temps de développement
+
+Stage - Développeur Junior | WebCraft SARL, Angers
+Février - Juin 2021
+- Développement de fonctionnalités front-end pour des applications web avec React
+- Participation à des revues de code et à des sessions de pair programming
+- Initiation à la gestion de projet Agile
+
+FORMATION
+
+Master en Management des Systèmes d'Information | École de Management de Nantes
+Septembre 2019 - Juin 2021
+- Mention Bien
+- Mémoire : "L'impact des méthodologies Agiles sur la réussite des projets IT"
+
+Licence en Informatique | Université de Nantes
+Septembre 2016 - Juin 2019
+- Mention Assez Bien
+
+CERTIFICATIONS
+
+- PRINCE2 Foundation (2023)
+- Professional Scrum Master I (PSM I) (2022)
+- ITIL Foundation Certificate in IT Service Management (2022)
+
+COMPÉTENCES
+
+Gestion de Projet :
+- Méthodologies Agiles (Scrum, Kanban)
+- Outils de gestion de projet (Jira, Trello, MS Project)
+- Analyse des risques et gestion des parties prenantes
+
+Compétences Techniques :
+- Connaissance des langages de programmation (Java, JavaScript, Python)
+- Compréhension des architectures web et des bases de données
+- Notions de cybersécurité et de protection des données
+
+Soft Skills :
+- Communication efficace
+- Leadership et travail d'équipe
+- Résolution de problèmes et prise de décision
+- Gestion du temps et des priorités
+
+LANGUES
+
+Français : Langue maternelle
+Anglais : Courant (TOEIC 920)
+Allemand : Intermédiaire
+
+CENTRES D'INTÉRÊT
+
+- Membre actif du Project Management Institute (PMI) - Chapitre France
+- Bénévole pour l'organisation d'un hackathon annuel à Nantes
+- Blogueuse occasionnelle sur les tendances en gestion de projet IT
+- Pratique du yoga et de la course à pied

@@ -1,0 +1,70 @@
+Thomas Leroy
+8 Avenue des Champs-Élysées, 75008 Paris
+Téléphone : 07 98 76 54 32
+Email : thomas.leroy@email.com
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Architecte Logiciel | InnoTech Solutions, Paris
+Janvier 2019 - Présent
+- Conception et mise en œuvre d'une architecture microservices pour une plateforme IoT, améliorant la scalabilité de 70%
+- Direction technique d'une équipe de 12 développeurs sur des projets critiques
+- Implémentation d'une stratégie de CI/CD, réduisant le temps de mise sur le marché de 50%
+- Optimisation des performances du système, résultant en une réduction des coûts d'infrastructure de 35%
+
+Lead Développeur | DataCore Systems, Nantes
+Mars 2015 - Décembre 2018
+- Développement d'une plateforme d'analyse de données en temps réel utilisant Kafka et Spark
+- Mise en place d'une architecture serverless sur AWS, améliorant la flexibilité et réduisant les coûts de 40%
+- Mentorat de 8 développeurs juniors et intermédiaires
+
+Ingénieur Logiciel | TechStart SAS, Lyon
+Juin 2012 - Février 2015
+- Développement full-stack d'applications web avec Angular et Spring Boot
+- Implémentation de tests automatisés, augmentant la couverture de code de 60% à 95%
+
+FORMATION
+
+Master en Ingénierie Logicielle | École Polytechnique, Paris
+2010 - 2012
+
+Licence en Informatique | Université de Lyon
+2007 - 2010
+
+CERTIFICATIONS
+
+- AWS Certified Solutions Architect - Professional
+- Google Cloud Professional Cloud Architect
+- Certified Kubernetes Administrator (CKA)
+- Certified Scrum Master (CSM)
+
+PROJETS PERSONNELS
+
+SmartHome Hub (Open Source)
+- Développement d'une plateforme open source pour la gestion de dispositifs IoT domestiques
+- Plus de 1000 stars sur GitHub et 50 contributeurs actifs
+
+AI-Powered Chess Engine
+- Création d'un moteur d'échecs utilisant l'apprentissage par renforcement
+- Performance évaluée à 2700+ ELO
+
+COMPÉTENCES
+
+Langages : Java (10 ans), Python (8 ans), JavaScript/TypeScript (7 ans), Go (4 ans)
+Frameworks : Spring Boot, Angular, React, Express.js, Flask
+Cloud & DevOps : AWS, GCP, Azure, Docker, Kubernetes, Terraform, Ansible
+Base de données : PostgreSQL, MongoDB, Cassandra, Redis
+Big Data & ML : Hadoop, Spark, TensorFlow, scikit-learn
+Méthodologies : Agile (Scrum, Kanban), Domain-Driven Design, Microservices
+
+LANGUES
+
+Français : Langue maternelle
+Anglais : Bilingue (TOEIC 990)
+Allemand : Intermédiaire
+
+CENTRES D'INTÉRÊT
+
+- Conférencier régulier dans des événements tech (DevOps Days, Devoxx)
+- Mentor pour des étudiants en informatique
+- Passionné de course à pied (semi-marathonien)

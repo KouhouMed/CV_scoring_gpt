@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7722ce47-838d-4a5f-ab6e-3f32e48516ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00004.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00005.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00006.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00007.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00008.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00009.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cvs/cv-00010.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/job_descriptions/job-00002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/job_descriptions/job-00003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/job_descriptions/job-00004.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/job_descriptions/job-00007.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/job_descriptions/job-00008.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +51,23 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/DATA/projects/CV_scoring_gpt/data/job_descriptions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DATA\projects\CV_scoring_gpt\data\job_descriptions" />
+      <recent name="D:\DATA\projects\CV_scoring_gpt\data\cvs" />
+      <recent name="D:\DATA\projects\CV_scoring_gpt\src\config" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725359403138</updated>
-      <workItem from="1725359406967" duration="2471000" />
+      <workItem from="1725359406967" duration="4086000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,45 @@
+# Description du poste
+
+## À propos de nous
+Chez CyberShield, nous sommes dédiés à la protection des systèmes informatiques contre les menaces toujours croissantes du monde numérique. Notre équipe de professionnels en sécurité travaille sans relâche pour développer des solutions innovantes qui garantissent la sécurité des données et des infrastructures de nos clients. Nous recherchons un ingénieur en sécurité logicielle passionné pour renforcer notre équipe et contribuer à notre mission de créer un cyberespace plus sûr.
+
+## À propos de la mission
+En tant qu'Ingénieur en Sécurité Logicielle chez CyberShield, vous serez au cœur de nos efforts pour concevoir, mettre en œuvre et maintenir des systèmes de sécurité robustes. Vous travaillerez sur des projets variés, de l'analyse de vulnérabilités à la conception de solutions de sécurité sur mesure, en passant par l'intégration de pratiques de sécurité dans le cycle de développement logiciel.
+
+## Responsabilités
+• Effectuer des évaluations de sécurité, des tests de pénétration et des analyses de code.
+• Concevoir et mettre en œuvre des solutions de sécurité pour nos produits et infrastructures.
+• Collaborer avec les équipes de développement pour intégrer les meilleures pratiques de sécurité.
+• Répondre aux incidents de sécurité et mener des investigations forensiques.
+• Rester à jour sur les dernières tendances et menaces en matière de cybersécurité.
+• Former et sensibiliser les autres équipes aux enjeux de la sécurité informatique.
+
+## Qualifications requises
+• Master en informatique, sécurité des systèmes d'information ou domaine connexe.
+• 4+ ans d'expérience en sécurité informatique ou développement sécurisé.
+• Solides compétences en programmation (Java, Python, C/C++).
+• Expérience avec les outils d'analyse de sécurité et de test de pénétration.
+• Connaissance approfondie des protocoles de sécurité et des normes de l'industrie (OWASP, ISO 27001, etc.).
+• Certifications en sécurité (CISSP, CEH, OSCP) appréciées.
+
+## Autres informations
+Type de contrat : CDI
+Lieu de travail : Toulouse avec possibilité de télétravail partiel
+
+Type d'emploi : Temps plein
+Statut : Cadre
+Rémunération : 55 000,00€ à 80 000,00€ par an
+
+Formation :
+• Bac +5 (Master) (Requis)
+
+Expérience :
+• Sécurité informatique: 4 ans (Requis)
+• Développement logiciel: 2 ans (Requis)
+• Tests de pénétration: 2 ans (Optionnel)
+
+Langue :
+• Anglais (Requis)
+• Français (Requis)
+
+Lieu du poste : Télétravail hybride (31000 Toulouse)

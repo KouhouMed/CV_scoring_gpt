@@ -1,0 +1,79 @@
+Lucas Dupont
+5 Rue de la République, 69001 Lyon
+Téléphone : 07 12 34 56 78
+Email : lucas.dupont@email.com
+
+PROFIL
+Jeune diplômé en informatique, passionné par le développement web et mobile. À la recherche d'une opportunité de débuter ma carrière dans une entreprise innovante où je pourrai appliquer mes connaissances en programmation et continuer à développer mes compétences.
+
+FORMATION
+
+Master en Informatique, Spécialisation Développement Logiciel | Université Claude Bernard Lyon 1
+Septembre 2021 - Juin 2023
+- Mention Bien
+- Projets notables :
+  * Développement d'une application mobile de covoiturage (React Native, Firebase)
+  * Création d'un système de gestion de bibliothèque (Java, Spring Boot, MySQL)
+
+Licence en Informatique | Université Jean Monnet, Saint-Étienne
+Septembre 2018 - Juin 2021
+- Mention Assez Bien
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Stage - Développeur Full Stack | TechStart SAS, Lyon
+Février - Juillet 2023
+- Développement de nouvelles fonctionnalités pour une plateforme e-commerce utilisant React et Node.js
+- Optimisation des requêtes SQL, améliorant les temps de chargement de 25%
+- Participation à la mise en place de tests unitaires avec Jest, augmentant la couverture de code de 60% à 80%
+
+Stage - Assistant Développeur | WebSolutions SARL, Saint-Étienne
+Juin - Août 2022
+- Assistance au développement front-end d'un site vitrine avec HTML, CSS et JavaScript
+- Création de maquettes responsives avec Figma
+- Initiation aux méthodologies Agile (Scrum)
+
+PROJETS PERSONNELS
+
+Application de Gestion de Tâches (Todo List)
+- Développement d'une application web avec React et Express.js
+- Mise en place d'une authentification utilisateur avec JWT
+- Déploiement sur Heroku
+
+Bot Discord pour Jeux de Rôle
+- Création d'un bot Discord en Python pour faciliter les sessions de jeux de rôle en ligne
+- Intégration de fonctionnalités de lancer de dés et de gestion de personnages
+- Plus de 100 utilisateurs actifs
+
+COMPÉTENCES TECHNIQUES
+
+Langages de programmation :
+- JavaScript/TypeScript (2 ans), Python (3 ans), Java (2 ans), C++ (1 an)
+
+Frameworks & Bibliothèques :
+- React, Node.js, Express.js, Spring Boot
+
+Bases de données :
+- MySQL, MongoDB
+
+Outils de développement :
+- Git, GitHub, VS Code, IntelliJ IDEA
+
+Méthodologies :
+- Agile (Scrum), Notions de TDD
+
+Cloud :
+- Notions de base sur AWS et Heroku
+
+LANGUES
+
+Français : Langue maternelle
+Anglais : Courant (TOEIC 850)
+Espagnol : Notions
+
+CENTRES D'INTÉRÊT
+
+- Contributeur occasionnel à des projets open source sur GitHub
+- Participant actif à des hackathons locaux (2ème place au Hackathon Lyon Tech 2023)
+- Passionné de jeux vidéo et de développement de mods
+- Pratique du badminton en club universitaire

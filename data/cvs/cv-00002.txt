@@ -1,0 +1,59 @@
+Sophie Lambert
+15 Rue du Faubourg Saint-Honoré, 75008 Paris
+Téléphone : 06 23 45 67 89
+Email : sophie.lambert@email.com
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Architecte DevOps | CloudSys Technologies, Paris
+Mai 2017 - Présent
+- Conception et mise en place d'infrastructures cloud scalables sur AWS et Google Cloud
+- Implémentation de pipelines CI/CD, réduisant le temps de déploiement de 70%
+- Automatisation des processus de test et de déploiement avec Jenkins et GitLab CI
+- Formation des équipes de développement aux pratiques DevOps
+
+Ingénieure Système | NetSecure SARL, Lille
+Septembre 2014 - Avril 2017
+- Gestion et maintenance de l'infrastructure réseau pour plus de 100 clients
+- Mise en place de solutions de sécurité, réduisant les incidents de sécurité de 50%
+- Optimisation des performances des serveurs, améliorant le temps de réponse de 35%
+
+Stage en Administration Système | InfoTech SA, Bordeaux
+Février - Juillet 2014
+- Assistance dans la gestion quotidienne des serveurs Linux
+- Participation à la mise en place d'un système de monitoring avec Nagios
+
+FORMATION
+
+Master en Systèmes d'Information et Réseaux | ENSIMAG, Grenoble
+2012 - 2014
+
+Licence en Informatique | Université de Lille
+2009 - 2012
+
+COMPÉTENCES
+
+Systèmes d'exploitation : Linux (8 ans), Windows Server (5 ans)
+Cloud & Virtualisation : AWS, Google Cloud, Docker, Kubernetes
+Automatisation : Ansible, Terraform, Puppet
+Scripting : Bash (6 ans), Python (4 ans), PowerShell (3 ans)
+Monitoring : Prometheus, Grafana, ELK Stack
+Sécurité : Firewall, VPN, IDS/IPS
+
+CERTIFICATIONS
+
+- AWS Certified Solutions Architect - Professional
+- Google Cloud Professional Cloud Architect
+- Certified Kubernetes Administrator (CKA)
+
+LANGUES
+
+Français : Langue maternelle
+Anglais : Courant (IELTS 7.5/9)
+Italien : Niveau débutant
+
+CENTRES D'INTÉRÊT
+
+- Contributrice à des projets open source de gestion d'infrastructure
+- Conférencière occasionnelle sur les pratiques DevOps
+- Adepte de course à pied et de triathlon

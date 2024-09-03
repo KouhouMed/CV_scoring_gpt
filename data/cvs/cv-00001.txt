@@ -1,0 +1,53 @@
+Lucas Moreau
+8 Avenue des Champs-Élysées, 75008 Paris
+Téléphone : 07 98 76 54 32
+Email : lucas.moreau@email.com
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Ingénieur en Intelligence Artificielle | AInnov Corp, Paris
+Janvier 2019 - Présent
+- Conception et développement d'algorithmes de machine learning pour la détection de fraudes
+- Implémentation de modèles de deep learning, augmentant la précision de prédiction de 25%
+- Gestion d'une équipe de 3 data scientists
+- Collaboration avec l'équipe produit pour intégrer les solutions d'IA dans les applications clients
+
+Data Scientist | DataTech SA, Nantes
+Mars 2016 - Décembre 2018
+- Analyse de grandes quantités de données utilisateur pour améliorer les recommandations produits
+- Développement de modèles prédictifs en utilisant Python, TensorFlow et Scikit-learn
+- Optimisation des pipelines de traitement de données, réduisant le temps de traitement de 40%
+
+Stage en Science des Données | BigData SARL, Lyon
+Avril - Septembre 2015
+- Assistance dans la création de tableaux de bord pour la visualisation de données clients
+- Participation à la mise en place d'un lac de données avec Apache Hadoop
+
+FORMATION
+
+Master en Intelligence Artificielle et Big Data | École Polytechnique, Paris
+2013 - 2015
+
+Licence en Mathématiques Appliquées | Université de Nantes
+2010 - 2013
+
+COMPÉTENCES
+
+Langages de programmation : Python (7 ans), R (5 ans), SQL (4 ans)
+Frameworks & Bibliothèques : TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+Big Data : Hadoop, Spark, Kafka
+Cloud : AWS, Google Cloud Platform, Azure
+Visualisation : Tableau, D3.js
+Méthodologies : Agile, CRISP-DM
+
+LANGUES
+
+Français : Langue maternelle
+Anglais : Courant (TOEFL 110/120)
+Allemand : Niveau intermédiaire
+
+CENTRES D'INTÉRÊT
+
+- Participant régulier à des hackathons d'IA
+- Blogueur sur les avancées en machine learning
+- Passionné de robotique et d'électronique

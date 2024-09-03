@@ -1,0 +1,59 @@
+Thomas Lefèvre
+5 Rue de la République, 69001 Lyon
+Téléphone : 07 12 34 56 78
+Email : thomas.lefevre@email.com
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Développeur Mobile Senior | AppMobile Studio, Lyon
+Septembre 2016 - Présent
+- Développement d'applications mobiles pour iOS et Android utilisées par plus de 500 000 utilisateurs
+- Mise en place d'une architecture MVVM, améliorant la maintenabilité du code de 35%
+- Implémentation de fonctionnalités de réalité augmentée, augmentant l'engagement des utilisateurs de 25%
+- Mentorat de 3 développeurs juniors et direction technique de 5 projets majeurs
+
+Ingénieur Logiciel Mobile | TechMob SARL, Grenoble
+Juillet 2013 - Août 2016
+- Développement d'applications natives pour iOS avec Swift et Objective-C
+- Création d'une bibliothèque de composants UI réutilisables, réduisant le temps de développement de 20%
+- Intégration de services backend RESTful et optimisation des performances réseau
+
+Stage en Développement Android | MobiSoft SA, Paris
+Février - Juin 2013
+- Participation au développement d'une application de fitness pour Android
+- Implémentation de fonctionnalités de géolocalisation et de suivi d'activité
+
+FORMATION
+
+Diplôme d'Ingénieur en Informatique | INSA Lyon
+2010 - 2013
+
+DUT Informatique | IUT de Villeurbanne
+2008 - 2010
+
+COMPÉTENCES
+
+Développement Mobile : iOS (Swift, 8 ans; Objective-C, 5 ans), Android (Kotlin, 6 ans; Java, 8 ans)
+Frameworks : UIKit, SwiftUI, Jetpack Compose, React Native (3 ans)
+Backend : Node.js, Express, Firebase
+Base de données : SQLite, Realm, Core Data
+Outils : Xcode, Android Studio, Git, Jira, Fastlane
+Méthodologies : Agile Scrum, TDD, Clean Architecture
+
+CERTIFICATIONS
+
+- Apple Certified iOS Developer
+- Google Associate Android Developer
+- React Native Certified Developer
+
+LANGUES
+
+Français : Langue maternelle
+Anglais : Courant (IELTS 7.5/9)
+Japonais : Niveau débutant
+
+CENTRES D'INTÉRÊT
+
+- Développement d'applications mobiles open source pour des associations caritatives
+- Organisateur de workshops sur le développement mobile dans des écoles d'ingénieurs
+- Pratiquant de yoga et de méditation
