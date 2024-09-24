@@ -43,8 +43,9 @@ class ChatGPTScorer(BaseScorer):
     def score_cv(self, cv_text, job_description):
 
         prompt = f"""
-        Given the following CV and job description, provide a relevance score between 0 and 1 (in this format : 0.83), 
-        where 1 is a perfect match and 0 is completely irrelevant. Consider the following factors with their respective weights:
+        Given the following CV and job description, provide a relevance score between 0 and 1 (as a two-place decimal), 
+        where 1 is a perfect match and 0 is completely irrelevant. The CV maybe be either a text or a json file.
+        Consider the following factors with their respective weights:
 
         1. Overall match between CV and job requirements (Weight: {self.config.get('global.skill_weight', 0.4)})
         2. Relevance of skills mentioned in the CV to the job requirements (Weight: {self.config.get('global.skill_weight', 0.4)})

@@ -1,0 +1,147 @@
+{
+  "personal_information": {
+    "last_name": "Dupont",
+    "first_name": "Alexandre",
+    "occupation": "Ingénieur en Sécurité Logicielle",
+    "location": "25 rue de la Cyberdéfense, 31000 Toulouse",
+    "email": "alexandre.dupont@email.com",
+    "phone_number": "06 12 34 56 78",
+    "linkedin": "linkedin.com/in/alexandre-dupont-cybersec"
+  },
+  "languages": [
+    "Français (langue maternelle)",
+    "Anglais (courant)"
+  ],
+  "skills": [
+    {
+      "skill_name": "Tests de pénétration",
+      "type": "Sécurité"
+    },
+    {
+      "skill_name": "Analyse de vulnérabilités",
+      "type": "Sécurité"
+    },
+    {
+      "skill_name": "Développement sécurisé",
+      "type": "Développement"
+    },
+    {
+      "skill_name": "Java",
+      "type": "Programmation"
+    },
+    {
+      "skill_name": "Python",
+      "type": "Programmation"
+    },
+    {
+      "skill_name": "C/C++",
+      "type": "Programmation"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "type": "Sécurité"
+    },
+    {
+      "skill_name": "ISO 27001",
+      "type": "Normes"
+    },
+    {
+      "skill_name": "Forensique numérique",
+      "type": "Sécurité"
+    },
+    {
+      "skill_name": "Gestion des incidents",
+      "type": "Sécurité"
+    },
+    {
+      "skill_name": "Cryptographie",
+      "type": "Sécurité"
+    },
+    {
+      "skill_name": "Sécurité réseau",
+      "type": "Sécurité"
+    }
+  ],
+  "experience": [
+    {
+      "position_name": "Ingénieur en Sécurité Senior",
+      "company_name": "SecureNet Solutions",
+      "location": "Paris",
+      "start_date": "2019-03-01",
+      "end_date": "present",
+      "duration": "4 ans 3 mois",
+      "details": "• Conception et mise en œuvre de solutions de sécurité pour des clients de divers secteurs.\n• Réalisation d'audits de sécurité, de tests d'intrusion et d'analyses de code.\n• Direction d'une équipe de 3 ingénieurs en sécurité junior.\n• Développement d'outils d'automatisation pour les tests de sécurité en Python.\n• Collaboration avec les équipes de développement pour intégrer la sécurité dans le cycle de vie du développement logiciel.\n• Formation des équipes clients sur les meilleures pratiques en matière de sécurité.",
+      "skills_used": [
+        "Tests de pénétration",
+        "Analyse de code",
+        "Python",
+        "Gestion d'équipe",
+        "OWASP",
+        "DevSecOps"
+      ]
+    },
+    {
+      "position_name": "Développeur Sécurité",
+      "company_name": "CyberDefense Corp",
+      "location": "Lyon",
+      "start_date": "2017-01-15",
+      "end_date": "2019-02-28",
+      "duration": "2 ans 1 mois",
+      "details": "• Développement de fonctionnalités de sécurité pour les produits de l'entreprise en Java et C++.\n• Réalisation d'analyses de code et correction de vulnérabilités.\n• Participation à la conception et à l'implémentation d'un système de détection d'intrusion.\n• Collaboration avec l'équipe QA pour l'élaboration de tests de sécurité automatisés.\n• Contribution à la documentation technique et aux guides de sécurité pour les clients.",
+      "skills_used": [
+        "Java",
+        "C++",
+        "Analyse de vulnérabilités",
+        "Développement sécurisé",
+        "IDS/IPS"
+      ]
+    },
+    {
+      "position_name": "Stagiaire en Cybersécurité",
+      "company_name": "InfoSec Innovations",
+      "location": "Toulouse",
+      "start_date": "2016-04-01",
+      "end_date": "2016-09-30",
+      "duration": "6 mois",
+      "details": "• Assistance dans la réalisation de tests de pénétration et d'audits de sécurité.\n• Développement de scripts Python pour l'automatisation de tâches de sécurité.\n• Participation à des projets de recherche sur les nouvelles menaces de sécurité.\n• Contribution à la rédaction de rapports de sécurité pour les clients.",
+      "skills_used": [
+        "Tests de pénétration",
+        "Python",
+        "Analyse de vulnérabilités",
+        "Rédaction technique"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "Certified Information Systems Security Professional (CISSP)",
+      "issuing_organization": "ISC²",
+      "year": "2021"
+    },
+    {
+      "certification_name": "Offensive Security Certified Professional (OSCP)",
+      "issuing_organization": "Offensive Security",
+      "year": "2020"
+    },
+    {
+      "certification_name": "Certified Ethical Hacker (CEH)",
+      "issuing_organization": "EC-Council",
+      "year": "2018"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master en Sécurité des Systèmes d'Information",
+      "institution": "INSA Toulouse",
+      "location": "Toulouse",
+      "year": "2016"
+    },
+    {
+      "degree": "Licence en Informatique",
+      "institution": "Université Paul Sabatier",
+      "location": "Toulouse",
+      "year": "2014"
+    }
+  ],
+  "CANDIDATE_PUBLIC_ID": "8fa62b3d-7c21-4e89-b3f5-9e2a84f61c2b"
+}

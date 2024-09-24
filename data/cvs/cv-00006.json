@@ -1,0 +1,197 @@
+{
+  "personal_information": {
+    "last_name": "Smith",
+    "first_name": "Emily",
+    "occupation": "Data Scientist",
+    "location": "123 Tech Avenue, San Francisco, CA 94105",
+    "email": "emily.smith@email.com",
+    "phone_number": "1 415 555 7890",
+    "driving_license": true,
+    "linkedin": "linkedin.com/in/emily-smith-datasci"
+  },
+  "languages": [
+    "English",
+    "Spanish",
+    "Mandarin"
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "type": "Programming_language"
+    },
+    {
+      "skill_name": "R",
+      "type": "Programming_language"
+    },
+    {
+      "skill_name": "SQL",
+      "type": "Programming_language"
+    },
+    {
+      "skill_name": "Machine Learning",
+      "type": "Others"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "type": "Others"
+    },
+    {
+      "skill_name": "PyTorch",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Pandas",
+      "type": "Others"
+    },
+    {
+      "skill_name": "NumPy",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Jupyter Notebooks",
+      "type": "IDE"
+    },
+    {
+      "skill_name": "Git",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Docker",
+      "type": "Others"
+    },
+    {
+      "skill_name": "AWS",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Tableau",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Power BI",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Apache Spark",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Hadoop",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Keras",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Natural Language Processing",
+      "type": "Others"
+    },
+    {
+      "skill_name": "Big Data",
+      "type": "Others"
+    }
+  ],
+  "experience": [
+    {
+      "position_name": "Senior Data Scientist",
+      "company_name": "TechNova Inc.",
+      "location": "San Francisco, CA",
+      "start_date": "2021-06-01",
+      "end_date": "present",
+      "duration": "ongoing",
+      "details": "Lead data science initiatives for product recommendation systems. Develop and implement advanced machine learning models for predictive analytics. Collaborate with cross-functional teams to drive data-driven decision making.",
+      "skills_used": [
+        "Python",
+        "TensorFlow",
+        "SQL",
+        "AWS",
+        "Machine Learning",
+        "Big Data"
+      ]
+    },
+    {
+      "position_name": "Data Scientist",
+      "company_name": "DataCrunch Solutions",
+      "location": "Boston, MA",
+      "start_date": "2018-09-15",
+      "end_date": "2021-05-31",
+      "duration": "2 years 8 months",
+      "details": "Developed predictive models for customer churn analysis. Created data visualization dashboards for executive reporting. Optimized ETL processes for improved data pipeline efficiency.",
+      "skills_used": [
+        "Python",
+        "R",
+        "SQL",
+        "Tableau",
+        "Machine Learning",
+        "Pandas"
+      ]
+    },
+    {
+      "position_name": "Junior Data Analyst",
+      "company_name": "FinTech Innovations",
+      "location": "New York, NY",
+      "start_date": "2016-07-01",
+      "end_date": "2018-09-14",
+      "duration": "2 years 2 months",
+      "details": "Conducted statistical analysis on financial data sets. Assisted in the development of risk assessment models. Created automated reports for stakeholders using Power BI.",
+      "skills_used": [
+        "R",
+        "SQL",
+        "Power BI",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "position_name": "Data Science Intern",
+      "company_name": "AI Research Lab",
+      "location": "Seattle, WA",
+      "start_date": "2016-01-15",
+      "end_date": "2016-06-30",
+      "duration": "5 months",
+      "details": "Assisted in natural language processing projects. Implemented basic machine learning algorithms for text classification. Participated in weekly research seminars on cutting-edge AI technologies.",
+      "skills_used": [
+        "Python",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Scikit-learn"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "AWS Certified Machine Learning - Specialty",
+      "issuing_organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "certification_name": "TensorFlow Developer Certificate",
+      "issuing_organization": "Google",
+      "year": "2021"
+    },
+    {
+      "certification_name": "Professional Data Scientist",
+      "issuing_organization": "DataCamp",
+      "year": "2019"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Data Science",
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "year": "2016"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "year": "2014"
+    }
+  ],
+  "CANDIDATE_PUBLIC_ID": "7bd651fe-9a23-4de7-b87c-28a96e70f1ac"
+}

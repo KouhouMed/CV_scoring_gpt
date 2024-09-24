@@ -1,0 +1,142 @@
+{
+  "personal_information": {
+    "last_name": "Dubois",
+    "first_name": "Sophie",
+    "occupation": "Marketing Manager spécialisée en produits écologiques",
+    "location": "15 rue des Écologistes, 44000 Nantes",
+    "email": "sophie.dubois@email.com",
+    "phone_number": "06 12 34 56 78",
+    "driving_license": true,
+    "linkedin": "linkedin.com/in/sophie-dubois-ecomarketing"
+  },
+  "languages": [
+    "Français (langue maternelle)",
+    "Anglais (courant)"
+  ],
+  "skills": [
+    {
+      "skill_name": "Stratégie marketing multicanal",
+      "type": "Marketing"
+    },
+    {
+      "skill_name": "Marketing digital",
+      "type": "Marketing"
+    },
+    {
+      "skill_name": "Gestion de campagnes publicitaires",
+      "type": "Marketing"
+    },
+    {
+      "skill_name": "Analyse de données marketing",
+      "type": "Analytics"
+    },
+    {
+      "skill_name": "Gestion de budget",
+      "type": "Management"
+    },
+    {
+      "skill_name": "Création de contenu",
+      "type": "Communication"
+    },
+    {
+      "skill_name": "SEO/SEM",
+      "type": "Digital Marketing"
+    },
+    {
+      "skill_name": "CRM (Salesforce)",
+      "type": "Software"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "type": "Analytics"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "type": "Software"
+    },
+    {
+      "skill_name": "Marketing des produits durables",
+      "type": "Specialization"
+    },
+    {
+      "skill_name": "Management d'équipe",
+      "type": "Management"
+    }
+  ],
+  "experience": [
+    {
+      "position_name": "Responsable Marketing",
+      "company_name": "GreenTech Solutions",
+      "location": "Paris",
+      "start_date": "2018-09-01",
+      "end_date": "present",
+      "duration": "4 ans 8 mois",
+      "details": "• Élaboration et mise en œuvre de stratégies marketing pour une gamme de produits technologiques écologiques.\n• Gestion d'une équipe de 5 personnes et d'un budget annuel de 500 000 €.\n• Augmentation de 40% des ventes grâce à des campagnes marketing ciblées.\n• Développement de partenariats stratégiques avec des influenceurs écologiques.\n• Mise en place d'une stratégie de contenu axée sur l'éducation des consommateurs aux enjeux environnementaux.",
+      "skills_used": [
+        "Stratégie marketing",
+        "Management d'équipe",
+        "Marketing digital",
+        "Gestion de budget",
+        "Partenariats stratégiques"
+      ]
+    },
+    {
+      "position_name": "Chargée de Marketing Digital",
+      "company_name": "EcoLife Cosmetics",
+      "location": "Lyon",
+      "start_date": "2015-06-01",
+      "end_date": "2018-08-31",
+      "duration": "3 ans 3 mois",
+      "details": "• Conception et exécution de campagnes de marketing digital pour une marque de cosmétiques biologiques.\n• Gestion des réseaux sociaux et du contenu du site web, résultant en une augmentation de 200% du trafic organique.\n• Analyse des données de performance marketing et ajustement des stratégies en conséquence.\n• Collaboration étroite avec l'équipe produit pour aligner les initiatives marketing avec les lancements de produits.",
+      "skills_used": [
+        "Marketing digital",
+        "SEO/SEM",
+        "Analyse de données",
+        "Gestion de contenu",
+        "Réseaux sociaux"
+      ]
+    },
+    {
+      "position_name": "Assistante Marketing",
+      "company_name": "Bio&Co",
+      "location": "Nantes",
+      "start_date": "2013-09-01",
+      "end_date": "2015-05-31",
+      "duration": "1 an 9 mois",
+      "details": "• Assistance dans la planification et l'exécution de campagnes marketing pour une chaîne de magasins bio.\n• Création de supports marketing print et digitaux.\n• Participation à l'organisation d'événements promotionnels locaux.\n• Analyse des tendances du marché des produits biologiques et durables.",
+      "skills_used": [
+        "Création de contenu",
+        "Événementiel",
+        "Analyse de marché",
+        "Marketing traditionnel"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "Certification en Marketing Digital",
+      "issuing_organization": "Google",
+      "year": "2020"
+    },
+    {
+      "certification_name": "Certification en Marketing Durable",
+      "issuing_organization": "Sustainable Marketing Institute",
+      "year": "2019"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master en Marketing et Communication",
+      "institution": "EDHEC Business School",
+      "location": "Lille",
+      "year": "2013"
+    },
+    {
+      "degree": "Licence en Commerce et Développement Durable",
+      "institution": "Université de Nantes",
+      "location": "Nantes",
+      "year": "2011"
+    }
+  ],
+  "CANDIDATE_PUBLIC_ID": "9ef728ac-5d31-4b8e-a2f7-1c6e9d3f0b5a"
+}
